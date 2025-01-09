@@ -1,3 +1,5 @@
+![analise_combinatoria_vba](https://github.com/user-attachments/assets/5a2dd7f6-ef13-498c-b4cd-046da1056339)
+
 # 📦 Análise Combinatória no VBA para Otimização Logística
 
 ## 🔍 Sobre o Projeto

@@ -1,6 +1,5 @@
-![analise_combinatoria_vba](https://github.com/user-attachments/assets/5a2dd7f6-ef13-498c-b4cd-046da1056339)
-
 # 📦 Análise Combinatória no VBA para Otimização Logística
+![analise_combinatoria_vba](https://github.com/user-attachments/assets/5a2dd7f6-ef13-498c-b4cd-046da1056339)
 
 ## 🔍 Sobre o Projeto
 Este projeto utiliza algoritmos de análise combinatória e técnicas de programação em **VBA** para resolver problemas complexos de otimização logística. O objetivo principal é organizar produtos em bandejas de forma eficiente, considerando restrições como a quantidade de gavetas disponíveis e combinações inteligentes.
@@ -23,6 +22,8 @@ Este projeto utiliza algoritmos de análise combinatória e técnicas de program
      - `BacktrackAnalyzerCombination`: Procura combinações que somem ao total necessário.
 
 4. **Integração com Solver do Excel**:
+   ![image1](https://github.com/user-attachments/assets/47510152-ae6b-4fef-8319-12555ba2e295)
+
    - Explora as capacidades de modelagem de problemas do Solver, mas supera suas limitações ao implementar algoritmos personalizados para soluções mais rápidas e inteligentes.
 
 ---
@@ -36,19 +37,27 @@ Este projeto utiliza algoritmos de análise combinatória e técnicas de program
 
 ## 📊 Exemplos de Aplicação
 ### 1. **Algoritmo BacktrackExactMatchAnalyzer**
+![image2](https://github.com/user-attachments/assets/9c1d6f5e-b8da-43ef-af8c-1139381d24c6)
+
 Identifica produtos que atendem exatamente a uma meta predefinida de gavetas (exemplo: M = 10).  
 **Resultado**:  
 - Mercadorias marcadas com um "X" e removidas da lista.  
 
 ### 2. **Algoritmo BacktrackAnalyzerMetaPair**
+![image4](https://github.com/user-attachments/assets/d5632948-7c61-430f-95dc-9b07a060f43b)
+
 Composição de pares que juntos completam a quantidade de gavetas desejada.  
 **Resultado**:  
 - Otimização dos pares, começando do menor valor para cima.
 
 ### 3. **Algoritmo BacktrackAnalyzerCombination**
+![image5](https://github.com/user-attachments/assets/daafb1cb-7338-4743-a26c-4496e99ffcb1)
+
 Criação de combinações que somam ao total necessário para a bandeja.  
 **Exemplo**:  
 - Item com 7 gavetas procura itens com 3 gavetas para atender à meta de 10.
+
+![image6](https://github.com/user-attachments/assets/2aa92aa1-b3ba-4296-8b7b-3a6f7a37c2ee)
 
 ---
 
@@ -81,7 +90,7 @@ Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais in
 
 ## 📬 Contato
 Desenvolvido por **Carlos Antonio**  
-💼 **LinkedIn**: [Carlos Antonio](https://www.linkedin.com/in/carlosantonio/)  
-📧 **Email**: [carlosantonio@email.com](mailto:carlosantonio@email.com)
+💼 **LinkedIn**: [Carlos Antonio](https://www.linkedin.com/in/carlos-antonio-analista/) 
+📧 **Portfólio**: [Carlos Antonio]([mailto:carlosantonio@email.com](https://carlosantonio.streamlit.app/)
 
 *“A tecnologia abre portas para o futuro, trazendo possibilidades infinitas e transformando sonhos em realidade.” 🚀*
